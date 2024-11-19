@@ -1,0 +1,17 @@
+,Emerging Markets,Tech Giants,File No Short,File With Short
+Annual Return,0.2214,0.7727,0.5552,0.5291
+Annual Volatility,0.2334,0.2439,0.2336,0.3944
+Sortino Ratio,1.374,4.8965,3.7165,2.0089
+Calmar Ratio,1.4019,3.7634,4.5272,2.5418
+VaR (95%),,,,
+VaR (99%),,,,
+CVaR (95%),,,,
+CVaR (99%),,,,
+Skewness,,,,
+Kurtosis,,,,
+Information Ratio,-0.3534,2.0196,1.1522,0.5149
+Win Rate,0.534,0.5617,0.5468,0.5149
+Profit Ratio,1.0016,1.1463,1.1327,1.1329
+Max Consecutive Wins,8.0,9.0,10.0,8.0
+Max Consecutive Losses,7.0,6.0,7.0,7.0
+Average Rolling Beta,1.1354,1.6272,1.4456,1.7433
